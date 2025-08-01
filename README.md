@@ -22,7 +22,7 @@ The script uses `os.getcwd()` to determine the location of the script which talk
 
 I personally use this crontab. (as sudo of course to be able to modify the file responsible for the coolerboost's state)
 
-`@reboot sleep 30; cd /home/pr1nt3r/Desktop/workbench/msi-cooler-booster-manager/ && python3 manager.py`
+`@reboot sleep 30; cd /path/to/the/msi-cooler-booster-manager/ && python3 manager.py`
 
 basically main.py is the subprogram and manager.py is the actual script you are meant to run. (don't question my stupid naming haha)
 
