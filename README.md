@@ -6,7 +6,7 @@ This is basically a very simple script which piggybacks off [msi-ec](https://git
 
  ### Who is this for?
 
-These 2 scripts are for people who have msi laptops that also run linux.
+These 2 scripts are for people who have msi laptops that also run linux. To have a peace of mind of not having to remember to enable cooler boost when gaming or doing computationally heavy tasks.
 
 ### Why?
 
